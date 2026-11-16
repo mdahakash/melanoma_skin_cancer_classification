@@ -10,7 +10,7 @@
 [![Test AUC](https://img.shields.io/badge/Test%20AUC-0.9772-red.svg)](#classification-performance)
 
 **Official PyTorch Implementation of the Paper:**  
-*"MeLALight: Melanoma Classification Using Multi-Stage DCT-Based Frequency-Channel Attention Fusion on RepViT"*
+*"MeLALight: Melanoma Classification Using Multi-Stage DCT-Based Frequency-Channel Attention Fusion on RepViT "*
 
 </div>
 
