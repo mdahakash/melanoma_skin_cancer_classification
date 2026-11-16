@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch Checkpoints & Models
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Data & Datasets
+data/
+datasets/
+melanoma_cancer_dataset/
+*.zip
+*.tar.gz
+
+# Outputs, Logs & Artifacts
+outputs/
+logs/
+runs/
+*.log
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+conda-env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE & Editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
